@@ -1,1 +1,1 @@
-# HueMusic
+# Synesthesia
