@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueService", "HueService\HueService.csproj", "{5387D4E1-512B-4AF7-88CF-5606A6F93A14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HueService", "HueService\HueService.csproj", "{5387D4E1-512B-4AF7-88CF-5606A6F93A14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{C7EC85D7-BBA9-4E60-A9A1-21E24AB93FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{C7EC85D7-BBA9-4E60-A9A1-21E24AB93FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synesthesia.Data", "Synesthesia.Data\Synesthesia.Data.csproj", "{F252CF1C-0824-434F-8822-1967B99D9111}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C7EC85D7-BBA9-4E60-A9A1-21E24AB93FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7EC85D7-BBA9-4E60-A9A1-21E24AB93FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7EC85D7-BBA9-4E60-A9A1-21E24AB93FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F252CF1C-0824-434F-8822-1967B99D9111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F252CF1C-0824-434F-8822-1967B99D9111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F252CF1C-0824-434F-8822-1967B99D9111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F252CF1C-0824-434F-8822-1967B99D9111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

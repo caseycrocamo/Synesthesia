@@ -13,7 +13,6 @@ namespace HueService
     {
         public IBridgeLocator locator = new HttpBridgeLocator();
 
-
         public ILocalHueClient client;
 
         public async Task<IEnumerable<LocatedBridge>> FindBridges()
